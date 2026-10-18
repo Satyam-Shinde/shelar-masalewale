@@ -1,0 +1,216 @@
+[
+  {
+    "id": "dhane-powder",
+    "name": "Dhane Powder",
+    "marathi": "धणे पावडर",
+    "category": "Everyday",
+    "weight": "100 g",
+    "price": 35,
+    "rating": 4.9,
+    "badge": "Bestseller",
+    "marathiBadge": "लोकप्रिय उत्पादन",
+    "heat": "Mild",
+    "description": "Made from carefully selected coriander seeds, this aromatic coriander powder adds a fresh, earthy fragrance and balanced flavour to everyday cooking. Ideal for Maharashtrian curries, usal, amti, vegetable dishes, dals, and homemade spice blends.",
+    "marathiDescription": "निवडक धण्यांपासून तयार केलेली ही सुगंधी धणे पावडर रोजच्या स्वयंपाकाला देते ताजेपणा, मातीचा नैसर्गिक सुगंध आणि संतुलित चव. महाराष्ट्रीयन भाज्या, उसळ, आमटी, वरण आणि विविध घरगुती मसाल्यांसाठी उपयुक्त.",
+    "ingredients": "100% coriander seeds.",
+    "marathiIngredients": "१००% धणे.",
+    "origin": "Maharashtra, India",
+    "marathiOrigin": "महाराष्ट्र, भारत",
+    "image": "/images/products/dhane-powder.jpeg",
+    "variations": [
+      {
+        "weight": "100 g",
+        "mrp": 50,
+        "price": 35
+      },
+      {
+        "weight": "250 g",
+        "mrp": 125,
+        "price": 87.5
+      },
+      {
+        "weight": "500 g",
+        "mrp": 250,
+        "price": 175
+      },
+      {
+        "weight": "1 kg",
+        "mrp": 500,
+        "price": 350
+      }
+    ],
+    "mrp": 50
+  },
+  {
+    "id": "mirchi-powder",
+    "name": "Mirchi Powder",
+    "marathi": "मिरची पावडर",
+    "category": "Everyday",
+    "weight": "100 g",
+    "price": 60,
+    "rating": 4.9,
+    "badge": "Bestseller",
+    "marathiBadge": "लोकप्रिय उत्पादन",
+    "heat": "Hot",
+    "marathiHeat": "तिखट",
+    "description": "A vibrant red chilli powder made from selected red chillies, bringing bold heat, rich colour, and a distinctive spicy flavour to your meals. Suitable for Maharashtrian curries, misal, thecha, gravies, marinades, and traditional homemade recipes.",
+    "marathiDescription": "निवडक लाल मिरच्यांपासून तयार केलेली ही मिरची पावडर पदार्थांना देते आकर्षक लाल रंग, झणझणीत तिखटपणा आणि अस्सल चव. महाराष्ट्रीयन भाज्या, मिसळ, ठेचा, रस्सा, मसालेदार पदार्थ आणि घरगुती पाककृतींसाठी उत्तम.",
+    "ingredients": "Red chilli powder.",
+    "marathiIngredients": "लाल मिरची पावडर.",
+    "origin": "Maharashtra, India",
+    "marathiOrigin": "महाराष्ट्र, भारत",
+    "image": "/images/products/mirchi-powder.jpeg",
+    "variations": [
+      {
+        "weight": "100 g",
+        "mrp": 80,
+        "price": 60
+      },
+      {
+        "weight": "250 g",
+        "mrp": 200,
+        "price": 150
+      },
+      {
+        "weight": "500 g",
+        "mrp": 400,
+        "price": 300
+      },
+      {
+        "weight": "1 kg",
+        "mrp": 800,
+        "price": 600
+      }
+    ],
+    "mrp": 80
+  },
+  {
+    "id": "kala-masala",
+    "name": "Kala Masala",
+    "marathi": "काळा मसाला",
+    "category": "Signature Blends",
+    "weight": "100 g",
+    "price": 80,
+    "rating": 4.9,
+    "badge": "Bestseller",
+    "marathiBadge": "लोकप्रिय उत्पादन",
+    "heat": "Medium",
+    "marathiHeat": "मध्यम तिखट",
+    "description": "A traditional Maharashtrian kala masala blend inspired by the rich flavours of home-style cooking. Its roasted spice character and deep aroma complement bharli vangi, usal, amti, vegetable curries, and regional gravies. A versatile blend for adding traditional Maharashtrian flavour to your kitchen.",
+    "marathiDescription": "महाराष्ट्राच्या पारंपरिक घरगुती चवीपासून प्रेरित असलेला हा काळा मसाला भाजलेल्या मसाल्यांचा खमंग सुगंध आणि समृद्ध चव देतो. भरली वांगी, उसळ, आमटी, भाज्या आणि विविध महाराष्ट्रीयन रस्सा पदार्थांची चव वाढवण्यासाठी उपयुक्त.",
+    "ingredients": "Traditional roasted spices and aromatic family spices.",
+    "marathiIngredients": "पारंपरिक भाजलेले मसाले आणि सुगंधी मसाल्यांचे मिश्रण.",
+    "origin": "Maharashtra, India",
+    "marathiOrigin": "महाराष्ट्र, भारत",
+    "image": "/images/products/kala-masala.jpeg",
+    "variations": [
+      {
+        "weight": "100 g",
+        "mrp": 100,
+        "price": 80
+      },
+      {
+        "weight": "250 g",
+        "mrp": 250,
+        "price": 200
+      },
+      {
+        "weight": "500 g",
+        "mrp": 500,
+        "price": 400
+      },
+      {
+        "weight": "1 kg",
+        "mrp": 1000,
+        "price": 800
+      }
+    ],
+    "mrp": 100
+  },
+  {
+    "id": "chicken-mutton-masala",
+    "name": "Chicken Mutton Masala",
+    "marathi": "चिकन-मटण मसाला",
+    "category": "Signature Blends",
+    "weight": "100 g",
+    "price": 80,
+    "rating": 4.9,
+    "badge": "Bestseller",
+    "marathiBadge": "लोकप्रिय उत्पादन",
+    "heat": "Medium",
+    "marathiHeat": "मध्यम तिखट",
+    "description": "A flavourful Maharashtrian-style masala blend designed for chicken, mutton, and other non-vegetarian preparations. Its combination of chilli, coriander, cumin, and aromatic spices helps create a rich-tasting gravy with a warm aroma and bold traditional flavour. Suitable for curries, rassa, and home-style non-vegetarian recipes.",
+    "marathiDescription": "चिकन, मटण आणि इतर मांसाहारी पदार्थांसाठी तयार केलेला हा महाराष्ट्रीयन शैलीतील मसाला खमंग सुगंध आणि ठसकेबाज चव देतो. मिरची, धणे, जिरे आणि सुगंधी मसाल्यांच्या मिश्रणामुळे रस्सा, चिकन करी, मटण करी आणि घरगुती मांसाहारी पदार्थ अधिक रुचकर बनवता येतात.",
+    "ingredients": "Red chilli, coriander, cumin, and traditional aromatic spices.",
+    "marathiIngredients": "लाल मिरची, धणे, जिरे आणि पारंपरिक सुगंधी मसाले.",
+    "origin": "Maharashtra, India",
+    "marathiOrigin": "महाराष्ट्र, भारत",
+    "image": "/images/products/chicken-mutton-masala.jpeg",
+    "variations": [
+      {
+        "weight": "100 g",
+        "mrp": 100,
+        "price": 80
+      },
+      {
+        "weight": "250 g",
+        "mrp": 250,
+        "price": 200
+      },
+      {
+        "weight": "500 g",
+        "mrp": 500,
+        "price": 400
+      },
+      {
+        "weight": "1 kg",
+        "mrp": 1000,
+        "price": 800
+      }
+    ],
+    "mrp": 100
+  },
+  {
+    "id": "halad-powder",
+    "name": "Halad Powder",
+    "marathi": "हळद पावडर",
+    "category": "Everyday",
+    "weight": "100 g",
+    "price": 70,
+    "rating": 4.9,
+    "badge": "Bestseller",
+    "marathiBadge": "लोकप्रिय उत्पादन",
+    "heat": "Mild",
+    "marathiHeat": "सौम्य",
+    "description": "Golden turmeric powder that brings an earthy aroma, natural golden colour, and distinctive flavour to everyday meals. A versatile kitchen essential for dals, vegetable curries, amti, rice dishes, and traditional Indian recipes.",
+    "marathiDescription": "सोनेरी रंगाची हळद पावडर रोजच्या जेवणाला देते नैसर्गिक रंग, मातीचा मंद सुगंध आणि वैशिष्ट्यपूर्ण चव. वरण, आमटी, भाज्या, भात आणि विविध पारंपरिक भारतीय पाककृतींसाठी स्वयंपाकघरातील एक महत्त्वाचा मसाला.",
+    "ingredients": "100% turmeric powder.",
+    "marathiIngredients": "१००% हळद पावडर.",
+    "origin": "Maharashtra, India",
+    "marathiOrigin": "महाराष्ट्र, भारत",
+    "image": "/images/products/haldi-powder.jpeg",
+    "variations": [
+      {
+        "weight": "100 g",
+        "mrp": 90,
+        "price": 70
+      },
+      {
+        "weight": "250 g",
+        "mrp": 225,
+        "price": 175
+      },
+      {
+        "weight": "500 g",
+        "mrp": 450,
+        "price": 350
+      },
+      {
+        "weight": "1 kg",
+        "mrp": 900,
+        "price": 700
+      }
+    ],
+    "mrp": 90
+  }
+]
