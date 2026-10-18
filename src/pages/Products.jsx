@@ -50,7 +50,6 @@ export default function Products({ t, lang }) {
                     <SectionHeading
                         eyebrow={t.products}
                         title={t.productsTitle}
-                        description={t.productsDataText}
                         center
                     />
 

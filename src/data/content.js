@@ -18,7 +18,7 @@ export const translations = {
     standardText: 'Every packet starts with whole spices, traditional family proportions and a small-batch mindset. Nothing unnecessary goes in.',
     wholePurity: 'whole-spice purity', fresh: 'Fresh', microProduction: 'micro-batch production',
     exploreMasale: 'Explore our signature blends and single-origin spices.',
-    productsTitle: 'Small batches. Big aroma.', productsDataText: 'Product information is stored in JSON, so you can add or edit products without changing the UI.',
+    productsTitle: 'Small batches. Big aroma.',
     searchPlaceholder: 'Search masala...', showing: 'Showing', productsWord: 'products', noProducts: 'No products match your search.',
     all: 'All', signature: 'Signature Blends', everyday: 'Everyday', singleOrigin: 'Single Origin',
     productCategory: { 'Signature Blends': 'Signature Blends', Everyday: 'Everyday', 'Single Origin': 'Single Origin' },
