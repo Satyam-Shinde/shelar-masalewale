@@ -149,23 +149,23 @@
     "variations": [
       {
         "weight": "100 g",
-        "mrp": 100,
-        "price": 80
+        "mrp": 120,
+        "price": 100
       },
       {
         "weight": "250 g",
-        "mrp": 250,
-        "price": 200
+        "mrp": 300,
+        "price": 250
       },
       {
         "weight": "500 g",
-        "mrp": 500,
-        "price": 400
+        "mrp": 600,
+        "price": 500
       },
       {
         "weight": "1 kg",
-        "mrp": 1000,
-        "price": 800
+        "mrp": 1200,
+        "price": 1000
       }
     ],
     "mrp": 100
