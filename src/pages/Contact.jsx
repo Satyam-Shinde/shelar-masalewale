@@ -85,7 +85,7 @@ export default function Contact({ t }) {
                                         size={20}
                                         className="shrink-0 text-yellow-300"
                                     />
-                                    पुणे, महाराष्ट्र, भारत
+                                    आहिल्यानगर, महाराष्ट्र, भारत
                                 </p>
 
                                 <p className="flex gap-3">
